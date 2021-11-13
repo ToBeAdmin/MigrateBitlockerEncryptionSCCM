@@ -9,5 +9,7 @@ Deux scripts sont utilisés :
 
 Modifiez la variable <b>$newBitlockerEncryption</b> pour définir la nouvelle méthode de chiffrement utilisée dans votre environnement. 
 
+Les logs sont stockés dans C:\Windows\Logs sur le client. 
+
 Un article détaillant l'implémentation est disponible sur le blog : 
 https://tobeadmin.com/baseline-sccm-migration-chiffrement-bitlocker-existant
